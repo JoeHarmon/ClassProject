@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grass()
+comment0.text=\r\n\ Create\ Grass\r\n
+comment1.params=
+comment1.target=void\ makeVisible()
+comment1.text=\r\n\ Make\ this\ Grass\ visible.\ If\ it\ was\ already\ visible,\ do\ nothing.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Draw\ the\ Grass\ with\ current\ specifications\ on\ screen.\r\n
+numComments=3
